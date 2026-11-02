@@ -2,7 +2,7 @@
 
 Detects Bahraini banknotes (0.5, 1, 5, 10 and 20 BHD) in a photo using a fine-tuned YOLO model.
 
-**Live app:** [add Streamlit link here]
+**Live app:** [APP](https://bahraini-currency-detector.streamlit.app/)
 
 ## Run locally
 ```
